@@ -3,7 +3,7 @@
 ## *Vires in numeris*. 
 ### (*"Lema popular en el mundo de las criptomonedas, Fuerza en los números*)
 
-###El tema fue elegido por la relevancia que han cobrado las cryptomonedas en los últimos años, su irrupción en el mercado, la accesibilidad que permiten, la descentralización y el “hype” garantizan que todos estén al menos, al tanto de la existencia del mundo crypto.
+### El tema fue elegido por la relevancia que han cobrado las cryptomonedas en los últimos años, su irrupción en el mercado, la accesibilidad que permiten, la descentralización y el “hype” garantizan que todos estén al menos, al tanto de la existencia del mundo crypto.
 Tardamos siglos en adaptarnos al papel moneda, 40 años en adaptarnos  a las tarjetas de crédito y ya con solo 13 años las cryptomonedas no dejan de asomarse por todos lados, es difícil negar la posibilidad que sean el futuro de las finanzas.
 
 ### Hipótesis e información general sobre datos recogidos:
